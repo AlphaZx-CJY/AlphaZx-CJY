@@ -23,16 +23,13 @@
 
 ---
 
-<!-- 动态数据统计卡片 -->
+<!-- GitHub 数据统计 -->
 <div align="center">
   
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlphaZx-CJY&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlphaZx-CJY&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlphaZx-CJY&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlphaZx-CJY&style=flat-square&color=58A6FF)
+  ![Repos](https://img.shields.io/badge/Repos-11-4ECDC4?style=flat-square&logo=github)
+  [![Years](https://img.shields.io/badge/Years%20on%20GitHub-4+-FF6B6B?style=flat-square)](https://github.com/AlphaZx-CJY)
+  
 </div>
 
 ---
@@ -86,16 +83,10 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/AlphaZx-CJY/blog">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlphaZx-CJY&repo=blog&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/AlphaZx-CJY/alphazx-cjy.github.io">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlphaZx-CJY&repo=alphazx-cjy.github.io&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
+| 项目 | 描述 | 技术 |
+|------|------|------|
+| **[blog](https://github.com/AlphaZx-CJY/blog)** | 个人博客系统 | ![Hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=white) |
+| **[alphazx-cjy.github.io](https://github.com/AlphaZx-CJY/alphazx-cjy.github.io)** | GitHub Pages 主页 | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white) |
 
 ---
 
