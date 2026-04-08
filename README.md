@@ -85,7 +85,7 @@
 
 | 项目 | 描述 | 技术 |
 |------|------|------|
-| **[blog](https://github.com/AlphaZx-CJY/blog)** | 个人博客系统 | ![Hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=white) |
+| **[blog-generator](https://github.com/AlphaZx-CJY/blog-generator)** | 博客生成工具链 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |
 | **[alphazx-cjy.github.io](https://github.com/AlphaZx-CJY/alphazx-cjy.github.io)** | GitHub Pages 主页 | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white) |
 
 ---
