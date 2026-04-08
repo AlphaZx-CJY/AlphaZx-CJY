@@ -51,7 +51,7 @@
 ### AI & LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=probot&logoColor=white)
-![AI Applications](https://img.shields.io/badge/AI%20Applications-4ECDC4?style=for-the-badge&logo= tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Applications-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Frontend & Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -88,11 +88,11 @@
 
 <div align="center">
 
-<a href="https://github.com/AlphaZx-CJY/blog-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaZx-CJY&repo=blog-generator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<a href="https://github.com/AlphaZx-CJY/blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaZx-CJY&repo=blog&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/AlphaZx-CJY/blog-workflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaZx-CJY&repo=blog-workflow&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<a href="https://github.com/AlphaZx-CJY/alphazx-cjy.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaZx-CJY&repo=alphazx-cjy.github.io&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -115,7 +115,7 @@
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-www.congjiye.com-FF6B6B?style=for-the-badge&logo=hexo&logoColor=white)](https://www.congjiye.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AlphaZx-CJY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlphaZx-CJY)
+[![GitHub](https://img.shields.io/badge/GitHub-AlphaZx--CJY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlphaZx-CJY)
 
 </div>
 
