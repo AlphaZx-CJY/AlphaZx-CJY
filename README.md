@@ -26,8 +26,8 @@
 <!-- 动态数据统计卡片 -->
 <div align="center">
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlphaZx-CJY&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaZx-CJY&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlphaZx-CJY&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlphaZx-CJY&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
@@ -89,10 +89,10 @@
 <div align="center">
 
 <a href="https://github.com/AlphaZx-CJY/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaZx-CJY&repo=blog&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlphaZx-CJY&repo=blog&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/AlphaZx-CJY/alphazx-cjy.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaZx-CJY&repo=alphazx-cjy.github.io&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlphaZx-CJY&repo=alphazx-cjy.github.io&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 </a>
 
 </div>
