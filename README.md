@@ -2,7 +2,7 @@
 
 <!-- 动态打字机效果标题 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+AlphaZx-CJY;Software+Engineer+%C2%B7+AI+Tools+Developer;IDE+%26+LLM+Application+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+AlphaZx-CJY" alt="Typing SVG" />
 </a>
 
 <!-- 副标题 -->
